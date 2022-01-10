@@ -33,3 +33,5 @@ hs_err_pid*
 
 # OSX
 .DS_Store
+
+out
