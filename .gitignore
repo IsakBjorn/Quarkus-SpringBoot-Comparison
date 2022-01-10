@@ -22,29 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-
-#Quarkus
-quarkus-demo/target/
-quarkus-demo/pom.xml.tag
-quarkus-demo/pom.xml.releaseBackup
-quarkus-demo/pom.xml.versionsBackup
-quarkus-demo/release.properties
-out
-
-
-#Spring Boot
-spring-demo/HELP.md
-spring-demo/target/
-spring-demo/!.mvn/wrapper/maven-wrapper.jar
-spring-demo/!**/src/main/**/target/
-spring-demo/!**/src/test/**/target/
-
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
-
 
 # Local environment
 .env
